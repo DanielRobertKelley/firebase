@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color:blue;
+    color:white;
+    text-align:center;
+    font-size:40px;
+    font-weight:bold;
+}
+#list {
+    background-color:white;
+}
+h2 {
+    text-align:center;
+    background-color:blue;
+    color:white;
+}
